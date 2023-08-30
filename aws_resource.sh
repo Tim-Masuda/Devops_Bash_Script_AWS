@@ -10,7 +10,7 @@
 # This script will report the AWS resource usage
 ########################
 
-# off input
+# debug on
 set -x
 
 # AWS S3 
