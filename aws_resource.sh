@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #########################
-# Author: Tim
+# Author: tim
 # Date: 30.08.23
 #
 # Version: v1
